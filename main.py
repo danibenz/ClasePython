@@ -1,4 +1,5 @@
 from Indicadores import *
 
-i = Indicadores()
+valor=float(input("Ingrese un valor en dolares: "))
 i.indicadoresEconomicos()
+resultado=
